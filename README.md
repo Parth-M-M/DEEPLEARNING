@@ -50,5 +50,5 @@ To install the required dependencies, run the following command:
 
 ## Video Presentation
 
-* **Video Link**: [Insert Google Drive or Unlisted YouTube Link Here]
+* **Video Link**: 
 * The demonstration video (5–10 minutes) includes a webcam picture-in-picture overlay and screen capture. It features a verbal explanation of core concepts (morphology filters, histograms, YuNet mechanisms, and YOLO architecture) alongside live webcam demonstrations of the detection pipelines and FPS evaluations.
