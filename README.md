@@ -41,11 +41,11 @@ To install the required dependencies, run the following command:
 
 *(Note: Replace the placeholder text below with actual screenshots of your visualizations saved in the `/plots` folder)*
 
-* **Morphology Grid**: `![Morphology Operations](plots/morphology_grid.png)`
-* **Histogram Comparison**: `![Histograms](plots/histogram_comparison.png)`
+* **Morphology Grid**: `![Morphology Operations](data/content/data/plots/task1_3_morphological_ops.png)`
+* **Histogram Comparison**: `![Histograms](data/content/data/plots/task2_3_histograms.png)`
 * **Face Detection Comparison**: `![YuNet Detections](plots/face_detection_comparison.png)`
-* **YOLO Detections**: `![YOLOv8 Results](plots/yolo_detections.png)`
-* **FPS Comparison**: `![FPS Benchmarking](plots/fps_comparison.png)`
+* **YOLO Detections**: `![YOLOv8 Results](data/content/data/plots/task4_1_yolo_detection.jpg)`
+* **FPS Comparison**: `![FPS Benchmarking](data/content/data/plots/webcamdetect.png)`
 * **Results Table**: `![Final Comparison Table](plots/results_table.png)`
 
 ## Video Presentation
