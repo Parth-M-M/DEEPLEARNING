@@ -39,7 +39,7 @@ To install the required dependencies, run the following command:
 
 ## Plots and Results
 
-*(Note: Replace the placeholder text below with actual screenshots of your visualizations saved in the `/plots` folder)*
+
 
 * **Morphology Grid**: `![Morphology Operations](data/content/data/plots/task1_3_morphological_ops.png)`
 * **Histogram Comparison**: `![Histograms](data/content/data/plots/task2_3_histograms.png)`
